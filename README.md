@@ -1,8 +1,11 @@
-# React + Vite
+Virtualr Landing Page is a modern and responsive single-page application built using React and Tailwind CSS. It serves as the front-facing website for a virtual reality (VR) focused product or service, showcasing features, testimonials, and call-to-action elements designed to attract users and convey the brand's innovative edge.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+The design is sleek and user-friendly, with smooth scrolling, adaptive layout for mobile and desktop, and clear sectioning for product highlights. The codebase is clean, component-based, and easy to maintain or extend, making it a great template for startups or developers building a tech-oriented landing page.
 
-Currently, two official plugins are available:
+Tech Stack:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+React for UI development
+
+Tailwind CSS for utility-first styling
+
+Vite for fast development and build process
